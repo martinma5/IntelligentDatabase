@@ -1,7 +1,6 @@
 package com.example.yoshii.intelligentdatabase;
 
 import android.app.Activity;
-import android.app.ActionBar;
 import android.app.Fragment;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -13,7 +12,7 @@ import android.os.Build;
 
 
 
-public class database extends Activity {
+public class contentprovidergui extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
